@@ -98,7 +98,7 @@ Just run my script.
 ```
 
 ### Easy Uninstall
-Just run my script
+Just run my script.
 
 ```
 ./uninstall.sh
